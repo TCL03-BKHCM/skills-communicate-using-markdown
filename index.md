@@ -5,3 +5,8 @@
 
 ![An Image of a black cat Lying](https://i.imgur.com/LpQhaKe.jpeg)
 
+
+```python
+def function(first, second):
+    return first + second
+```
